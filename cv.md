@@ -7,3 +7,8 @@
 
 ## About me
 I am an excellent team member and want to learn and develop new skills. I want to get the knowledge and skills that will be enough for employment in the company.
+
+## Skills
+* HTML
+* CSS
+* JavaScript 
