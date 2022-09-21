@@ -28,3 +28,7 @@ function toWeirdCase(string){
   return result.join('');
 }
 ```
+
+## Education
+* 2015-2019 College of Electronic Devices IFNTUNG (Software Engineering, Junior Specialist.)
+* 2019-2022 Ivano-Frankivsk National Technical University of Oil and Gas (Software Engineering, Specialist.)
