@@ -16,3 +16,14 @@ I am an honest and friendly person. I am well organised and always plan ahead to
 + HTML
 + CSS
 + JavaScript
+***
+
+## Code example:
+```
+function openOrSenior(data){
+  // ...
+  return data.map(([s, f])=>{
+    return s>=55 && f>7? 'Senior':'Open'
+  })
+}
+```
