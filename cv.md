@@ -30,3 +30,8 @@ function openOrSenior(data){
 ***
 
 ## Experience
+***
+
+## Education:
++ 2015-2019 College of Electronic Devices IFNTUNG (Specialty: Software Engineering, Junior Specialist.)
++ 2019-2022 Ivano-Frankivsk National Technical University of Oil and Gas (Specialty: Software Engineering, Specialist.)
