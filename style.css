@@ -224,6 +224,55 @@ font-size: 20px;
 
 @media (max-width: 991.98px) {  }
 
-@media (max-width: 767.98px) {  }
+@media (max-width: 767.98px) { 
+  .wrapper{
+    padding-top: 0; 
+  }
+  .header{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+  .main{
+    gap: 30px;
+    padding: 40px 0;
+  }
+  .title{
+    margin-left: 20px;
+    font-size: 16px;
+  }
+  .list{
+    gap: 5px;
+  }
+  .item {
+    margin-left: 40px;
+    font-size: 15px;
+  }
+  .code{
+    display: none;
+  }
+ }
 
-@media (max-width: 575.98px) {   }
+@media (max-width: 575.98px) { 
+  .wrapper{
+    flex-direction: column;
+  } 
+  .aside{
+    flex-basis: 100%;
+    gap: 30px;
+    padding: 40px 10px;
+  }
+  .main{
+    flex-basis: 100%;
+  }
+  .about__info{
+    max-width: 100%;
+  }
+  }
